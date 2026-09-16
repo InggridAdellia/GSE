@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    src: url('inter/Inter_18pt-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 500;
+    src: url('inter/Inter_18pt-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 600;
+    src: url('inter/Inter_18pt-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 700;
+    src: url('inter/Inter_18pt-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 800;
+    src: url('inter/Inter_18pt-ExtraBold.ttf') format('truetype');
+}
